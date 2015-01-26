@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Solaris
+tags: Scince-Fiction
+image: /images/books/solaris.jpg
+---
