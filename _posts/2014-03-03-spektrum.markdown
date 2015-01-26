@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Spektrum
+tags: psychology
+image: /images/books/spektrum.jpg
+---
