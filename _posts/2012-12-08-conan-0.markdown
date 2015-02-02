@@ -1,0 +1,7 @@
+---
+layout: blog
+title: Conan - Born on the battlefield
+tags: 
+image: /images/books/conan-volume-0.jpg
+---
+
