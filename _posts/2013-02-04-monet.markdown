@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Monet Seine Gärten - Seine Kunst - Sein Leben
+tags: 
+image: /images/books/monet.jpg
+---
