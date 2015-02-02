@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Smoke City 1
+tags: Comic
+image: /images/books/smoke-city-1.jpg
+---
