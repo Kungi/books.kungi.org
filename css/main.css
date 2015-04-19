@@ -43,7 +43,7 @@ pre code {
 }
 
 a {
-/*	
+/*
 	color: rgba(80, 160, 228);
 	font-size: 100%;*/
 	color: #00A550;
@@ -129,7 +129,7 @@ h1 {
 }
 
 #posts ul {
-	list-style:none; 
+	list-style:none;
 	margin: auto;
 	padding: 0px;
 }
@@ -220,7 +220,7 @@ margin: 20px 5px 0px 0px;
 width: 75%;
 float: left;
 padding-left: 3%;
- border-left: 1px dashed #ddd; 
+ border-left: 1px dashed #ddd;
 font-size: 1.15em;
 overflow: hidden;
 /*background: none repeat scroll 0% 0% #FFF;
@@ -248,84 +248,30 @@ blockquote{
 
 .tag { background-color: #008080}
 
-
-/****** Media Queries For Adaptive Layouts******/
-
-@media only screen and (min-width: 1367) {
-
-	#posts ul li {
-		width: 220px;
-	}
+#logo, #links {
+	float: none;
+	text-align: center;
 }
 
-@media only screen and (max-width: 1366) {
-
-	#posts ul li {
-		width: 273px;
-	}
+#links {
+	margin: 0 0 0 0;
 }
 
-/* Tables - Landscape */
-@media only screen and (max-width: 1280) {
-
-	#posts ul li {
-		width: 252px;
-	}
-
+#posts ul li {
+	width: 95%;
 }
 
-/* Tables - Landscape */
-@media 
-only screen and (max-device-width:1024px),
-only screen and (max-width: 1024px) {
-
-	#posts ul li {
-		width: 265px;
-	}
-
+#side-bar {
+	display: none;
 }
 
-/* Tables - Verticle */
-@media 
-only screen and (max-device-width:768px),
-only screen and (max-width: 768px) {
-
-	#posts ul li {
-		width: 300px;
-	}
+#page {
+	border-left: 0px;
+	width: 100%;
+	margin: 0 0 0 0 ;
+	padding: 0 0 0 0 ;
 }
 
-/* Smart Phone */
-@media 
-only screen and (max-device-width:600px),
-only screen and (max-width: 600px) {
-
-	#logo, #links {
-		float: none;
-		text-align: center;
-	}
-
-	#links {
-		margin: 0 0 0 0;
-	}
-
-	#posts ul li {
-		width: 95%;
-	}
-
-	#side-bar {
-		display: none;
-	}
-
-	#page {
-		border-left: 0px;
-		width: 100%;
-		margin: 0 0 0 0 ;
-		padding: 0 0 0 0 ;
-	}
-
-	#page img {
-		width: 100%;
-	}
+#page img {
+	width: 100%;
 }
-
